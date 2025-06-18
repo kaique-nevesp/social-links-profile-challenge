@@ -57,6 +57,6 @@ I plan to keep improving my Flexbox skills, as I feel there’s still a lot of r
 
 ## Author
 
-- Frontend Mentor - @kaique-nevesp
+- Frontend Mentor - [@kaique-nevesp] (https://www.frontendmentor.io/profile/kaique-nevesp)
 - Linkedin - (https://www.linkedin.com/in/kaique-neves-pereira-b0839217b/)
 - Gmail - kaiquenevesp07@gmail.com
