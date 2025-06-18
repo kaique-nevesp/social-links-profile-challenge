@@ -22,8 +22,8 @@ This project was simple to build and served as a great way to demonstrate my pro
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/solution-social-links-profile-lBnaCgdKlU)
-- Live Site URL: [https://your-live-site-url.com](https://kaique-nevesp.github.io/social-links-profile-challenge/)
+- [Solution URL](https://www.frontendmentor.io/solutions/solution-social-links-profile-lBnaCgdKlU)
+- [Live Site URL](https://kaique-nevesp.github.io/social-links-profile-challenge/)
 ## My process
 
 ### 🛠️ Built with
