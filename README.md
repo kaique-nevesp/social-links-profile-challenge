@@ -22,9 +22,8 @@ This project was simple to build and served as a great way to demonstrate my pro
 
 ### Links
 
-- Solution URL: [([https://your-solution-url.com]([https://www.frontendmentor.io/solutions/profile-card-component-solution-q66Z9eFTUm](https://www.frontendmentor.io/solutions/solution-social-links-profile-lBnaCgdKlU)))](https://www.frontendmentor.io/solutions/solution-social-links-profile-lBnaCgdKlU)
-- Live Site URL: [([https://your-live-site-url.com](https://kaique-nevesp.github.io/profile-card-component-main-challenge/))](https://kaique-nevesp.github.io/social-links-profile-challenge/)
-
+- Solution URL: [https://your-solution-url.com]([https://www.frontendmentor.io/solutions/profile-card-component-solution-q66Z9eFTUm](https://www.frontendmentor.io/solutions/solution-social-links-profile-lBnaCgdKlU))]
+- Live Site URL: [https://your-live-site-url.com](https://kaique-nevesp.github.io/profile-card-component-main-challenge/))]
 ## My process
 
 ### 🛠️ Built with
